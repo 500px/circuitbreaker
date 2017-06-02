@@ -31,7 +31,7 @@
 package circuit
 
 import (
-	"context"
+	"golang.org/x/net/context"
 	"errors"
 	"sync"
 	"sync/atomic"
